@@ -3,7 +3,7 @@ server:
           contatos: 8081
           discovery: 8761
       name:
-          contatos: "sta-contatos"
+          contatos: sta-contatos
 
 spring:
       jpa.database: POSTGRESQL
