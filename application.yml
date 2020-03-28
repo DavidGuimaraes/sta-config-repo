@@ -1,0 +1,10 @@
+server:
+      port:
+          contatos: 8081
+
+spring:
+      jpa.database: POSTGRESQL
+      datasource:
+                url: "jdbc:postgresql://localhost:5433/sta"
+                username: postgres
+                password: 123456
