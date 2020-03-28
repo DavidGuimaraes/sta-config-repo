@@ -1,6 +1,7 @@
 server:
       port:
           contatos: 8081
+          discovery: 8761
 
 spring:
       jpa.database: POSTGRESQL
